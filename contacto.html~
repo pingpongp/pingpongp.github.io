@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" type="text/css" href="styles.css" />
+<title>Ping Pong Papas | Template By Dieter Schneider for www.csstemplateheaven.com</title>
+</head>
+
+<body>
+
+<div id="header">
+  <h1><span class="heading_color">Ping Pong</span> Papas</h1>
+</div>
+
+
+<div id="container">
+
+<div id="left">
+
+<h4>Menu</h4>
+
+<div id="navcontainer">
+<ul id="navlist">
+<li><a href="index.html">Inicio</a></li>
+<li><a href="ficha.html">Ficha t&eacute;cnica</a></li>
+<li><a href="galeria.html">Galeria de fotos</a></li>
+<li><a href="contacto.html">Contacto</a></li>
+</ul>
+</div>
+</div>
+
+
+<div id="right"><img src="images/mano3.jpg" alt="hand" width="78" height="48" class="thumbs" /></div>
+
+<div id="content">
+   <br><br>
+  <h2>¡Cont&aacute;ctanos!</h2><br><br>
+  <p>Cel 33 1112 7921</p><br><br>
+  <p>Paseo de la serenata 5020-22</p><br>
+  <p>Col. Balcones de Santa Maria</p><br>
+  <p>Tlaquepaque, Jal</p><br>
+
+
+<br><br>
+<h3>ventaspingpong@gmail.com  </h3>
+
+
+</div>
+
+
+</div>
+</body>
+</html>

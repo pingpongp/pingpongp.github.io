@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" type="text/css" href="styles.css" />
+<title>Ping Pong Papas | Template By Dieter Schneider for www.csstemplateheaven.com</title>
+</head>
+
+<body>
+
+<div id="header">
+  <h1><span class="heading_color">Ping Pong</span> Papas</h1>
+</div>
+
+
+<div id="container">
+
+<div id="left">
+
+<h4>Menu</h4>
+
+<div id="navcontainer">
+<ul id="navlist">
+<li><a href="index.html">Inicio</a></li>
+<li><a href="ficha.html">Ficha t&eacute;cnica</a></li>
+<li id="active"><a href="galeria.html" id="current">Galeria de fotos</a></li>
+<li><a href="contacto.html">Contacto</a></li>
+</ul>
+</div>
+</div>
+
+
+<div id="right"><img src="images/mano3.jpg" alt="hand" width="78" height="48" class="thumbs" /></div>
+
+<div id="content">
+ <br><br>
+  <h2>Galeria de fotos</h2>
+ <br><br>
+
+<p><img src="gal/g1.jpg" alt="g1" width="208" height="141" class="images_left" /></p>
+<p><img src="gal/g2.jpg" alt="g2" width="188" height="141" class="images_center"/></p>
+<p><img src="gal/g3.jpg" alt="g3" width="188" height="141" class="images_right" /></p>
+<p><img src="gal/g4.jpg" alt="g4" width="208" height="141" class="images_left" /></p>
+<p><img src="gal/g5.jpg" alt="g5" width="188" height="141" class="images_center"/></p>
+<p><img src="gal/g6.jpg" alt="g6"  height="141" class="images_right" /></p>
+<p><img src="gal/g7.jpg" alt="g7" width="208" height="141" class="images_left" /></p>
+<p><img src="gal/g8.jpg" alt="g8" width="188" height="141" class="images_center"/></p>
+<p><img src="gal/g9.jpg" alt="g9" width="188" height="141" class="images_right" /></p>
+<p><img src="gal/g10.jpg" alt="g10" width="208" height="141" class="images_left" /></p>
+<p><img src="gal/g11.jpg" alt="g11" width="188" height="141" class="images_center"/></p>
+<p><img src="gal/g12.jpg" alt="g12"  height="141" class="images_right" /></p>
+<br>
+<p>F&aacute;cilmente desarmable.  </p><br><br>
+<h3>Pedidos:  ventaspingpong@gmail.com  </h3>
+
+
+</div>
+
+<div id="footer">&copy; <a href="http://www.csstemplateheaven.com">CssTemplateHeaven.com</a> | Created by Dieter Schneider 2006</div>
+
+</div>
+</body>
+</html>
